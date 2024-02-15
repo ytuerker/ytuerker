@@ -1,8 +1,5 @@
-Hi, hallo, salut, selam, مرحبًا⁩! My name is Yusuf Türker
+Hi, hallo, salut, selam, مرحبًا⁩!
 ====================================================================================================================================
-
-Computer science student
-------------------------
 
 I like computers
 
